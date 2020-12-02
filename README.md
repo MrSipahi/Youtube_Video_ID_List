@@ -16,7 +16,7 @@ In order for this code to work, there must be a table named 'kanal' in the datab
 ![enter image description here](https://lh3.googleusercontent.com/vGIg-58EdGlwncCY3ThV-o4dC4UFs28HiCNs-gxert9uU6wbyO8i9rJMdUAfmKhmL5md7uZCT-xDoDhJBKH4DUwRyr0D3tUvLwEbUOCWIXFB1rWV4gs9aE0Rx5TNfywAAgkq0Vn-MOii6AUYp0veRdLMJC8STO2KfRb6c5BYWX_VtcPNANElyRf54YjpJFOGYuUgb9r2bWRA1YRtTNP1T2tnI0ju0Qj5jMqYu1I0PCYJSM8X7Itb3595HCs9zENRRZqSpPptZ4uwTnPTxI8Bso6-BTIDAPYDjS804Pj2zMJ3wVJVwjXPatPgUHSascHuExNJ8QJb7_AT9g-GizM-EZUlO73f7-56kwDhNKql6pjYHJT4ExFqiOo3PpA7Eh1Pf9L6qGR5BAgG_SKIEqpdtgFFysn-lSi_Ko-76BD-Jl9vZ_n-IKA4m-mzzUrZlWI-2pi1hN1ZBOtBmS5xUOBcGZNx3Rj6hzsziOQ-_Rjbd5ZbT-7QWfZ7iHRrfNCxqwhP7opwNdjIdrsRZiYgVZibq860wxGpd-PVkIoRb_fVT0Txr9oSXDAA-qKswAk4d_95ImZIBAhzB2b0lvrD9XJROG-WLwqc7mWzR3DdaEJ8DObjgO-8hDRipT7sry_YEFuWneLhDqVclqcybRAFkUUhtyWJoD68LhvMPFpX_vz4zD1eA7MwPbR2dwgK3dkS=w397-h112-no?authuser=0)
 
   
-Reaches the video IDs of the channels using the Youtube Data API service with channel ID information.
+By using the Youtube Data API service, it accesses the video IDs of the channels with the channel ID information.
 
 #  Technologies
 
